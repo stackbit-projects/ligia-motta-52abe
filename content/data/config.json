@@ -25,7 +25,8 @@
             {
                 "label": "Contact me",
                 "url": "/contact",
-                "style": "primary"
+                "style": "primary",
+                "has_icon": true
             }
         ],
         "has_secondary_nav": false
